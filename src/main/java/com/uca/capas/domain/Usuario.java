@@ -1,5 +1,8 @@
 package com.uca.capas.domain;
 
+//USUARIO: paola
+//CONTRASENIA: 1234
+
 public class Usuario {
 	private String usuario;
 	private String contrasenia;
