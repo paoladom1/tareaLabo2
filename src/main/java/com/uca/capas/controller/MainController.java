@@ -6,6 +6,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import com.uca.capas.domain.Usuario;
 
+//USUARIO: paola
+//CONTRASENIA: 1234
+
 @Controller
 public class MainController {
 	@GetMapping("/login")
